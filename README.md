@@ -23,7 +23,11 @@ Utilidade:
 Utilize o gerenciador de pacote [pip](https://pip.pypa.io/en/stable/ ) para instalar o pacote do projeto
 
 ```
+<<<<<<< HEAD
 pip install processador-imagem-virtual-da
+=======
+pip install processador_imagem_virtual_da
+>>>>>>> 096e893f567c320e1ff97a993e83e46e3e80d9ff
 ```
 
 ##### Uso
